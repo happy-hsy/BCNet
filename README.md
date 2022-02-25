@@ -1,5 +1,5 @@
 # Temporal Action Proposal Generation with Background Constraint
-This repository contains the source code for the paper [Temporal Action Proposal Generation with Background Constraint](https://arxiv.org/abs/2112.07984)**(AAAI 2022)**.
+This repository contains the source code for the **(AAAI 2022)** paper [Temporal Action Proposal Generation with Background Constraint](https://arxiv.org/abs/2112.07984).
 ## TODOs
 - [x] add inference code
 - [x] add training code
@@ -56,7 +56,7 @@ We especially thank the contributors of  [BMN](https://github.com/JJBOY/BMN-Boun
 @article{yang2021temporal,
   title={Temporal Action Proposal Generation with Background Constraint},
   author={Yang, Haosen and Wu, Wenhao and Wang, Lining and Jin, Sheng and Xia, Boyang and Yao, Hongxun and Huang, Hujie},
-  journal={arXiv preprint arXiv:2112.07984},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
   year={2021}
 }
 ```
