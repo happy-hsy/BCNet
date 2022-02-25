@@ -64,6 +64,7 @@ We especially thank the contributors of  [BMN](https://github.com/JJBOY/BMN-Boun
 For any question, please file an issue or contact
 ```
 Haosen Yang: haosen.yang.6@gmail.com
+Wenhao Wu: whwu.ucas@gmail.com
 ```
 
 
