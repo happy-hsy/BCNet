@@ -3,8 +3,8 @@
 
 This repository contains the source code of the [BCNet](https://arxiv.org/abs/2112.07984) (Background Constraint Network).
 ## TODOs
-- [x] add inference code
-- [x] add training code
+- [x] add Inference code
+- [x] add Training code
 
 ## Overview
 
