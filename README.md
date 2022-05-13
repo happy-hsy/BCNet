@@ -60,7 +60,7 @@ We especially thank the contributors of  [BMN](https://github.com/JJBOY/BMN-Boun
   title={Temporal Action Proposal Generation with Background Constraint},
   author={Yang, Haosen and Wu, Wenhao and Wang, Lining and Jin, Sheng and Xia, Boyang and Yao, Hongxun and Huang, Hujie},
   journal={Proceedings of the AAAI Conference on Artificial Intelligence},
-  year={2021}
+  year={2022}
 }
 ```
 ## Contact
