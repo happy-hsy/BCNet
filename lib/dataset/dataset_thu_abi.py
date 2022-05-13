@@ -173,7 +173,7 @@ class VideoDataSet(data.Dataset):  # thumos
             tmp_end =   max(min(1, (gt_bbox[j][1]-offset)*self.temporal_gap/self.skip_videoframes), 0)
             #***
             tmp_gt_proposal = iou_with_anchors(self.start_bins*self.temporal_gap, self.end_bins*self.temporal_gap, tmp_start, tmp_end)
-            tmp_gt_background = iou_with_anchors(self.start_bins*self.temporal_gap, self.end_bins*self.temporal_gap, tmp_start, tmp_end)
+            tmp_gt_background = ioa_with_anchors(self.start_bins*self.temporal_gap, self.end_bins*self.temporal_gap, tmp_start, tmp_end)
             gt_proposal.append(tmp_gt_proposal)
             gt_background.append(tmp_gt_background)
 
